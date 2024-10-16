@@ -1,1 +1,8 @@
-# toy666228.github.io
+<html>
+  <head>
+    <title>Website of Toy666228</title>
+  </head>
+  <body>
+    Hi!
+  </body>
+</html>
